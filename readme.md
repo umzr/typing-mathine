@@ -1,6 +1,6 @@
 
 this is a last year project
-F6 
+
 
 Material: 
 arduino Pro micro HKD$35
@@ -49,3 +49,6 @@ b = a;
 
 5) finish
 ![image](https://na.cx/i/o35PLjM.jpg)
+
+
+orginal post:https://lihkg.com/thread/1155722/page/1
