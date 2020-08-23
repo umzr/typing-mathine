@@ -46,7 +46,8 @@ b = a;
 4) put in to box
 ![image](https://na.cx/i/q2VswZo.jpg)
 ![image](https://na.cx/i/9bo526i.jpg)
-
+4.1) testing
+![image](https://github.com/umzr/typing-mathine/blob/master/photo_2020-08-23_20-40-38.jpg)
 5) finish
 ![image](https://na.cx/i/o35PLjM.jpg)
 
