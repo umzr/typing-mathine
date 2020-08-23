@@ -2,7 +2,7 @@
 this is a last year project
 F6 
 
-```Material: 
+Material: 
 arduino Pro micro HKD$35
 plastic button HKD$9
 plastic box: HKD15
@@ -41,5 +41,11 @@ void loop() {
   }
 
 b = a;
-```}
+}
 
+4) put in to box
+![image](https://na.cx/i/q2VswZo.jpg)
+![image](https://na.cx/i/9bo526i.jpg)
+
+5) finish
+![image](https://na.cx/i/o35PLjM.jpg)
